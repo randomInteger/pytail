@@ -5,4 +5,4 @@ To test this quickly, run it with a file with only a few lines (smaller than 819
 
 Example:
 
-https://github.com/randomInteger/pytail/blob/master/example.png
+<img src="https://github.com/randomInteger/pytail/blob/master/example.pngx" width="600" heighth="400">
