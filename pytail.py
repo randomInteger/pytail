@@ -2,8 +2,7 @@
 #pytail.py
 #Very simple tail implementation in python3
 #Author:  Christopher Gleeson, April 2018
-
-#Note:  Need a big enough test file?  try:  man proc > bigfile.txt
+#Note:  Need a big enough test file?  try:  seq 1 100000 > ./file.txt
 
 import os
 import sys
